@@ -6,6 +6,8 @@ function Design() {
   
 
   return (
+    <>
+    <h2 className='text-center bg-blue-200 p-3 font-bold'>Design</h2>
     <div className='p-10'>
     <ol className="items-center sm:flex">
    <li className="relative mb-6 sm:mb-0">
@@ -42,6 +44,7 @@ In the hardware design phase of the car industry, engineers and designers collab
 </ol>
 
    </div>
+   </>
   )
 }
 
