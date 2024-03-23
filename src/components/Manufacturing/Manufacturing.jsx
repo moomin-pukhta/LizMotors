@@ -6,6 +6,9 @@ function Manufacturing() {
   
 
   return (
+    <>
+            <h2 className='text-center bg-blue-200 p-3 font-bold'>Manufacturing</h2>
+
     <div className='p-10'>
     <ol className="items-center sm:flex">
    <li className="relative mb-6 sm:mb-0">
@@ -48,6 +51,7 @@ In the production manufacturing phase of the car industry, assembly lines integr
 </ol>
 
    </div>
+   </>
   )
 }
 
