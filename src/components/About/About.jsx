@@ -21,4 +21,4 @@ Our solution provides a better understanding of customers that helps companies t
     </>
   )}
 
-  export default About
+  export default Abouta
