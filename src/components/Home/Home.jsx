@@ -5,6 +5,8 @@ import { Link } from 'react-router-dom';
 
 export default function Home() {
     return (
+        <>
+        <h2 className='text-center bg-blue-200 p-3 font-bold'>Time-Line of Progress</h2>
        <div className='p-10'>
 
 
@@ -90,5 +92,6 @@ export default function Home() {
 
 
         </div>
+        </>
     );
 }
